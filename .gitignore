@@ -1,0 +1,31 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Streamlit app cache and config
+.streamlit/
+
+# Environment variables
+.env
+.env.*
+
+# Model files (if downloaded)
+*.pt
+*.ckpt
+*.pth
+
+# Jupyter notebook checkpoints (if added later)
+.ipynb_checkpoints/
+
+# OS / Editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Hugging Face model cache (optional)
+.cache/
+~/.cache/
