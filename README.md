@@ -56,6 +56,10 @@ streamlit run main.py
 
 ## 🖼️ Example Screenshot
 
+<img width="1366" height="566" alt="Screenshot (421)" src="https://github.com/user-attachments/assets/7a03c9a8-232f-4ce4-b6d8-075d29c547a3" />
+
+<img width="1366" height="588" alt="Screenshot (420)" src="https://github.com/user-attachments/assets/4af3501d-9e03-45e1-bcb3-efba3e5debc4" />
+
 
 
 
